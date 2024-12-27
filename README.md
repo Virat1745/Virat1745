@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Virat1745
-- 👀 I’m interested in ...Space,Photography and then Coding
-- 🌱 I’m currently learning ...javaScript
-- 💞️ I’m looking to collaborate on ...Nothing yet.
-- 📫 
+- 👋 Hi, I’m @Virat1745 I am here to make connections with anyone and everyone, ig the best way to learn is from other's experiences and journeys,
+- 👀 I’m interested in growing myself as a IT Technician and Developer and human as a whole
+- 🌱 I’m currently learning Tech support so that I can land a job as a Help-Desk agent to begin my career in IT
+- 💞️ I’m looking to collaborate on anything related to IT
